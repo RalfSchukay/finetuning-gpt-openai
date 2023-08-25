@@ -5,3 +5,5 @@ Fine-tuning sample data is also provided (10 cases from a fictional customer sup
 
 Further reading:
 https://platform.openai.com/docs/guides/fine-tuning
+
+<img width="1370" alt="juypter-notebook-overview" src="https://github.com/RalfSchukay/finetuning-gpt-openai/assets/143171877/e8b2c9b9-5a8f-4466-b7aa-6cf2905312bf">
